@@ -31,4 +31,4 @@ HelloWorld WEB组是隶属于杭州电子科技大学计算机学院HelloWorld�
 
 ## 联系我们：
 
-有项目需求或者合作意向，欢迎联系组长QQ: 1538306377
+有项目需求或者合作意向，欢迎联系组长E-mail: sceley520@gmail.com
