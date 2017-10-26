@@ -7,10 +7,6 @@ HelloWorld WEB组是隶属于杭州电子科技大学计算机学院HelloWorld�
 
 天壹
 
-饼饼
-
-王琦
-
 罗峡
 
 叶家豪
